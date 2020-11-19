@@ -1,0 +1,12 @@
+1-Linear REgression:
+   Mean: 5.000628451785635
+   Standard Deviation: 1.0644456796746582
+
+
+2-Decision TRee:
+   Mean: 4.03939384068944
+   Standard Deviation: 0.8565645846082409
+   
+3-RAndom Forest Regressor:
+    Mean: 3.3136383826236395
+Standard Deviation: 0.7049408595647398
